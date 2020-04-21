@@ -5,11 +5,11 @@ TheMealDB-https://www.themealdb.com/api.php
 
 ### Problem Statement
 
-An app which helps to find, save and organize all your favorite recipes. 
+An app which helps to find ways to prepare all your favorite recipes. 
 
 ### Target Users
 
-Anyone who wants to find and keep their recipes organized
+Anyone who wants to know how to prepare a speicific recipe
 
 
 ### Wireframe
