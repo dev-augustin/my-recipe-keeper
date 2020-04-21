@@ -1,4 +1,7 @@
-### my-recipe-keeper
+### recipe-finder
+### API used:
+
+TheMealDB-https://www.themealdb.com/api.php
 
 ### Problem Statement
 
@@ -12,6 +15,10 @@ Anyone who wants to find and keep their recipes organized
 ### Wireframe
 ![wireframe](my_recipe_keeper/wireframe/RecipeKeeper.png)
 
-Stateful Components : Using API to fetch data based on the option selected
+Stateful Components :
 
-Stateless Components : Display of Recipe information
+Stateless Components : 
+Home.js - displays navigation link to different recipes
+About.js - displays information about recipe finder
+
+
