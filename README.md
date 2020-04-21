@@ -13,19 +13,18 @@ Anyone who wants to find and keep their recipes organized
 
 
 ### Wireframe
-![wireframe](recipe_finder/wireframe/RecipeFinder.png)
-
+![wireframe](./recipe_finder/wireframe/RecipeFinder.png)
 Stateful Components :
-ChickenRecipes.js - Axios requests is made to fetch recipes using chicken
-Pasta.js-Axios requests is made to fetch recipes under Pasta Category
-Dessert.js-Axios requests is made to fetch recipes under Dessert Category
+1. ChickenRecipes.js - Axios request is made to fetch recipes using chicken
+2. Pasta.js-Axios request is made to fetch recipes under Pasta Category
+3. Dessert.js-Axios request is made to fetch recipes under Dessert Category
 
 Stateless Components : 
-RecipeFinder.js - displays navigation link to different recipes
-About.js - displays information about recipe finder
-ChickenRecipeInformation.js - display Information for the selected recipe
-PastaRecipeInformation.js - display Information for the selected recipe
-DessertRecipeInformation.js - display Information for the selected recipe
+1. RecipeFinder.js - displays navigation link to different recipes
+2. About.js - displays information about recipe finder
+3. ChickenRecipeInformation.js - display Information for the selected recipe
+4. PastaRecipeInformation.js - display Information for the selected recipe
+5. DessertRecipeInformation.js - display Information for the selected recipe
 
 
 
