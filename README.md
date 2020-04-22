@@ -9,7 +9,7 @@ An app which helps to find ways to prepare all your favorite recipes.
 
 ### Target Users
 
-Anyone who wants to know how to prepare a speicific recipe
+Anyone who wants to know how to prepare a specific recipe
 
 
 ### Wireframe
